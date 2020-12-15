@@ -1,2 +1,2 @@
 # AtmanirbharScholarshipProgram
-1. Hit the ball
+1. Hit the ball Game (Scratch)
